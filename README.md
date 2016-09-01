@@ -33,7 +33,7 @@ Writing bloom filter with 1430 commits to [/tmp/bloom.txt]...
 
 ```
 # find repositories which overlap with ours by 5 or more commits
-% bundle exec flag.rb 5 ~/theirs/*
+% bundle exec flag.rb 5 /tmp/bloom.txt ~/theirs/*
 /home/me/theirs/hadoop	162	matching commits in [/home/me/theirs/hadoop] (of 162 total repo commits - 100.0%) - threshold 5
 ```
 
