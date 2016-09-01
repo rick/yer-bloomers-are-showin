@@ -5,8 +5,8 @@ Let's say you have a bunch of git repositories ("yours"), and another set of git
 forks, or highly similar to yours.  
 
 This simple tool takes the approach that we want to just quickly rule out any of their 
-repositories which absolutely aren't related to any of our repositories.  If there *might* 
-be some of theirs that could be related to some of ours, just print out the names of those
+repositories which absolutely aren't related to any of your repositories.  If there *might* 
+be some of theirs that could be related to some of yours, just print out the names of those
 repositories and we can visually inspect them.
 
 ### usage:
