@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bloom-filter (0.2.2)
+    posix-spawn (0.3.11)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bloom-filter
+  posix-spawn
