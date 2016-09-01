@@ -18,7 +18,7 @@ Let's get set up:
 bundle install
 ```
 
-Let's index our repositories:
+Let's index your repositories:
 
 ```
 # hint: do this in a loop, realistically, over a ton of repos
@@ -30,6 +30,8 @@ Encountered 312 commits in repo /Users/rick/ours/mesos-plugin/
 Encountered 61 commits in repo /Users/rick/ours/run-me-maybe-plugin/
 Writing bloom filter with 1430 commits to [/tmp/bloom.txt]...
 ```
+
+And lets check theirs:
 
 ```
 # find repositories which overlap with ours by 5 or more commits
